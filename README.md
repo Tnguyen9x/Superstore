@@ -1,5 +1,3 @@
-# superstore
-Superstore 
 # Superstore Profitability Analysis
 
 ## Introduction
