@@ -21,6 +21,7 @@ The data has been thoroughly cleaned and prepared for analysis. Any anomalies, s
 The dataset was inspected for any inconsistencies or errors. Key steps in data preparation included:
 
 - **Removing columns**: The ROW ID column was removed because it wasn't needed for the analysis and the Name column due to PII.
+![](https://github.com/Tnguyen9x/Superstore/blob/main/Visualizations/Remove_columns.png?raw=true)
 
 ## 4. Visualization and Analysis
 
@@ -28,17 +29,22 @@ The dataset was inspected for any inconsistencies or errors. Key steps in data p
 
 A geographical analysis revealed significant disparities in profitability across the U.S., with California generating the most profit and Texas generating the least. This indicates strong regional variations in market performance.
 
+![](https://github.com/Tnguyen9x/Superstore/blob/main/Visualizations/Profit_by_state.png?raw=true)
 ### Impact of Discounts on Profit
 
 The analysis showed a clear trend where higher discounts, especially above 20%, lead to a significant erosion of profit margins, often resulting in losses. This was consistent across multiple product categories.
 
+![](https://github.com/Tnguyen9x/Superstore/blob/main/Visualizations/Correlation_profit_discount.png?raw=true)
 ### Customer Segmentation
 
 The customer base was segmented into three groups: Consumer, Corporate, and Home Office. Although the Consumer segment was the largest, the Corporate and Home Office segments had higher average sales, indicating their higher value per transaction.
 
+![](https://github.com/Tnguyen9x/Superstore/blob/main/Visualizations/Customer_segmentation.png?raw=true)
 ### Profit Distribution Across Categories
 
 The Technology and Office Supplies categories were identified as the main drivers of profit, contributing over 95% of total profits. In contrast, the Furniture category contributed minimally, with some products even generating losses.
+
+![](https://github.com/Tnguyen9x/Superstore/blob/main/Visualizations/Product_analysis.png?raw=true)
 
 ## 5. Recommendations
 
