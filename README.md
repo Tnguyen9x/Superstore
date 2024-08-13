@@ -61,3 +61,5 @@ Based on the insights gained from the analysis, several recommendations can be m
 ## Conclusion
 
 This project has provided valuable insights into the factors driving profitability within the Superstore's U.S. operations. By carefully managing discounts, focusing on high-performing regions and customer segments, and optimizing the product portfolio, the Superstore can enhance its overall profitability and operational efficiency. The findings from this analysis offer a solid foundation for making informed strategic decisions that will support the Superstore's long-term growth and success.
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/tony.nguyen1690/viz/Achievement6_17233891101310/Achievement6?publish=yes)
